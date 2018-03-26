@@ -1,0 +1,12 @@
+name: SFPoliceData
+title: SFPoliceData
+username:
+account: aishwmano
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 308275
+bundleId: 1287953
+url: https://aishwmano.shinyapps.io/SFPoliceData/
+when: 1522047103.89294
+asMultiple: FALSE
+asStatic: FALSE
